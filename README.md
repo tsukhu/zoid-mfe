@@ -19,6 +19,21 @@ yarn serve
 
 ![demo](./docs/zoid-demo.gif)
 
-# Template Credits
+# License
+
+- [MIT](./LICENSE)
+
+# Credits
+
+## Zoid
+
+- Paypals Zoid library - [Apache License](https://github.com/krakenjs/zoid/blob/master/LICENSE.txt), Version 2.0
+
+## Card Form Components
+
+- Card Form Components are design and modified based on the original react styled components article and repo by [Lukas Gisder-Dubé](https://github.com/gisderdube/react-component-system)
+
+
+## Template Credits
 
 - Landing Page Copyright 2018-2019 Astrava.Solutions Ltd. Code released under the [MIT license](https://github.com/tailwindtoolbox/Landing-Page/blob/master/LICENSE).
