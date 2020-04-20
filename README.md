@@ -33,6 +33,10 @@ yarn serve
 
 - Card Form Components are design and modified based on the original react styled components article and repo by [Lukas Gisder-Dubé](https://github.com/gisderdube/react-component-system)
 
+### React Payment Inputs
+
+- Used to demonstrate the card input (react-payment-inputs)
+- [MIT License](https://github.com/medipass/react-payment-inputs)
 
 ### Tailwind CSS Landing Page Template
 
