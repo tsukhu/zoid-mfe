@@ -1,0 +1,14 @@
+{
+  "name": "host-app",
+  "version": "1.0.0",
+  "description": "Sample Host App",
+  "main": "index.js",
+  "author": "Tarun Kumar Sukhu",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  },
+  "scripts": {
+    "serve": "http-server -p 8002 --cors ."
+  }
+}
