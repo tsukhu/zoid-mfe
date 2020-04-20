@@ -34,6 +34,6 @@ yarn serve
 - Card Form Components are design and modified based on the original react styled components article and repo by [Lukas Gisder-Dubé](https://github.com/gisderdube/react-component-system)
 
 
-## Template Credits
+## Tailwind CSS Landing Page Template
 
 - Landing Page Copyright 2018-2019 Astrava.Solutions Ltd. Code released under the [MIT license](https://github.com/tailwindtoolbox/Landing-Page/blob/master/LICENSE).
