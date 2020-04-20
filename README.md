@@ -2,13 +2,13 @@
 
 - Demo of zoid based cross domain microfrontends
 
-# Setup
+## Setup
 
 ```
 yarn
 ```
 
-# Running
+## Running
 
 ```
 yarn serve
@@ -19,21 +19,21 @@ yarn serve
 
 ![demo](./docs/zoid-demo.gif)
 
-# License
+## License
 
 - [MIT](./LICENSE)
 
-# Credits
+## Credits
 
-## Zoid
+### Zoid
 
 - Paypals Zoid library - [Apache License](https://github.com/krakenjs/zoid/blob/master/LICENSE.txt), Version 2.0
 
-## Card Form Components
+### Card Form Components
 
 - Card Form Components are design and modified based on the original react styled components article and repo by [Lukas Gisder-Dubé](https://github.com/gisderdube/react-component-system)
 
 
-## Tailwind CSS Landing Page Template
+### Tailwind CSS Landing Page Template
 
 - Landing Page Copyright 2018-2019 Astrava.Solutions Ltd. Code released under the [MIT license](https://github.com/tailwindtoolbox/Landing-Page/blob/master/LICENSE).
