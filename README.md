@@ -41,3 +41,7 @@ yarn serve
 ### Tailwind CSS Landing Page Template
 
 - Landing Page Copyright 2018-2019 Astrava.Solutions Ltd. Code released under the [MIT license](https://github.com/tailwindtoolbox/Landing-Page/blob/master/LICENSE).
+
+### Reference Video
+
+- Learnings from Jack Herrington applied to create this project . Watch [here](https://www.youtube.com/watch?v=2jhTHjF-e2Y&t=186s)
