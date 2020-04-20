@@ -1,0 +1,19 @@
+{
+  "name": "zoid-mfe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ERS-HCL/zoid-mfe.git",
+  "author": "Tarun Kumar Sukhu <tksukhu@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "serve": "concurrently \"wsrun --parallel serve\""
+  },
+  "workspaces": {
+    "packages": ["card-form-app","host-app"]
+  },
+  "devDependencies": {
+    "concurrently": "^5.1.0",
+    "wsrun": "^5.2.0"
+  }
+}
