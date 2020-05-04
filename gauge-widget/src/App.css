@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-header {
+  text-align: center;
+  font-size: small;
+  text-transform: uppercase;
+}
+
+.widget {
+  font-size: small;
+}
+
